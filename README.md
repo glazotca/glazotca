@@ -1,4 +1,15 @@
-### Hi there 👋
+# Welcome! ⚡
+
+
+### Languages and Tools:
+
+ - JavaScript, Node.js
+ - React, Redux
+ - HTML, CSS
+ - Git, Webpack, Gulp
+ - Jest, Mocha, Chai
+ - WebStorm
+ - SQL
 
 <!--
 **glazotca/glazotca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
