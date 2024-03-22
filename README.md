@@ -25,3 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<style>
+ span.htxt{ display: none;}
+</style>
+my<span class="htxt">not needed text</span>mail<span class="htxt">another not needed text</span>@dom<span class="htxt">delete me</span>ain.tld
