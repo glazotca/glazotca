@@ -25,7 +25,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<style>
- span.htxt{ display: none;}
-</style>
-my<span class="htxt">not needed text</span>mail<span class="htxt">another not needed text</span>@dom<span class="htxt">delete me</span>ain.tld
+
+1. First item with a hidden code block
+    <details>
+      <summary>Example</summary>
+
+      ```
+      long console output here
+      ```
+    </details>
+
+2. Second item with a hidden code block
+    <details>
+      <summary>Example</summary>
+
+      ```
+      long console output here
+      ```
+    </details>
+
+3. Third item with a hidden code block
+    <details>
+      <summary>Example</summary>
+
+      ```
+      long console output here
+      ```
+    </details>
